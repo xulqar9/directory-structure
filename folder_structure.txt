@@ -1,0 +1,5 @@
+├── directory-structure
+│   ├── .gitignore
+│   ├── README.md
+│   ├── folder_structure.txt
+│   └── ss.py
